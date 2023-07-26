@@ -2,7 +2,7 @@
 
 🇫🇷
 
-Le but de ce projet est de nettoyer un ensemble de données Excel en utilisant des requêtes SQL afin de le rendre plus compréhensif
+Le but de ce projet est de nettoyer un ensemble de données Excel en utilisant des requêtes SQL, afin de le rendre plus compréhensif
 
 Base de données utilisée : MySQL  
 Logiciel : MySQL Workbench
